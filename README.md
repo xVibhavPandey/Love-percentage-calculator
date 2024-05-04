@@ -1,4 +1,4 @@
-# Love-percentage-calculator
+# Love-percentage-calculator using python
 
 print("Welcome to the love calculator !")
 name1 = input("What is your name ?")
